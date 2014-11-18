@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/248/ROBS/trunk/control/generic_rover_manoeuvre/src
+END
+GenericRoverManoeuvre.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/ROBS/trunk/control/generic_rover_manoeuvre/src/GenericRoverManoeuvre.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/ROBS/trunk/control/generic_rover_manoeuvre/src/constants.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/ROBS/trunk/control/generic_rover_manoeuvre/src/CMakeLists.txt
+END
+GenericRoverManoeuvre.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/ROBS/trunk/control/generic_rover_manoeuvre/src/GenericRoverManoeuvre.c
+END
+generic_rover_manoeuvre.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/248/ROBS/trunk/control/generic_rover_manoeuvre/src/generic_rover_manoeuvre.pc.in
+END

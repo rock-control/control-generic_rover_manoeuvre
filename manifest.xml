@@ -1,0 +1,18 @@
+<package>
+  <description brief="Rover manoeuvre commands to motor commands calculation">
+      Translates a generic rover manoeuvre command (i.e. Ackerman into separate wheel and steering commands for motors)
+      The library is independent of the rover platform
+  </description>
+  <author>Pierre Deleglise/</author>
+  <license>GPL v2 or later </license>
+  <url>http://</url>
+  <logo>http://</logo>
+  <!--
+   To add any dependencies use the depend tag
+  <depend package="dummy-dependency-0" />
+	...
+  <depend package="dummy-dependency-n-1" />
+  <depend package="dummy-dependency-n" />
+  -->
+  <depend package="base/types" />
+</package>
