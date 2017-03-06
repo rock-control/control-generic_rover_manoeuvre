@@ -3,7 +3,7 @@
 #ifndef CONSTANTS_H
 #define CONSTANTS_H
 
-#define DEBUG		//!< Constant to define the debug mode. If not defined, the functions will not print anything.
+//#define DEBUG		//!< Constant to define the debug mode. If not defined, the functions will not print anything.
 
 
 #ifndef NUM_WHEEL_ROVER_MAX
